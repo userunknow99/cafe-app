@@ -1,0 +1,13 @@
+# ============================================================
+# BrewHaven Café — Frontend Environment Variables
+# Rename this file to .env and fill in your values
+# All Vite vars MUST start with VITE_
+# ============================================================
+
+# Local dev:
+VITE_API_URL=http://localhost:5000/api
+
+# Production (replace with your Render backend URL):
+# VITE_API_URL=https://brewhaven-api.onrender.com/api
+
+VITE_API_URL=https://cafe-app-42tx.onrender.com/api
